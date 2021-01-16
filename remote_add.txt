@@ -4,4 +4,7 @@ git branch -M main
 
 git push -u origin main
 
-//git push origin master
+//git push origin main
+//remote repo is called origin;
+//git renamed "master" of "main" according to the changes of github
+//because of blm
