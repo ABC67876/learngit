@@ -1,0 +1,11 @@
+拉取远程库的两种方式：
+
+ssh
+https
+//我这里以码云为例,拉取同一仓库
+
+//ssh
+git clone git@gitee.com:ge_minglin/gitskill.git 
+
+//https
+git clone https://gitee.com/ge_minglin/gitskill.git
