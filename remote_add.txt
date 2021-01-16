@@ -1,0 +1,7 @@
+git remote add origin https://github.com/自己的github账户名/learn-git.git
+
+git branch -M main
+
+git push -u origin main
+
+//git push origin master
