@@ -5,3 +5,4 @@ branch dev
 main
 feature1
 
+bug fixed
